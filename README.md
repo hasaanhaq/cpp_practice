@@ -1,8 +1,7 @@
 # 🚀 C++ Data Structures Practice
 
 ![C++](https://img.shields.io/badge/Language-C++-blue.svg)  
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)  
+
 
 A **collection of C++ implementations** for fundamental data structures and algorithms. This repository is a **practice ground** for mastering **stacks, queues, linked lists, trees, graphs, heaps, and more!** 🚀
 
