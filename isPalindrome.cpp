@@ -36,9 +36,9 @@ int main(){
     cout << "Testing hello: " << (isPalindrome(test2) ? "Palindrome" : "Not a Palindrome") << endl;
     cout << "Testing madam:  " << (isPalindrome(test3) ? "Palindrome" : "Not a Palindrome") << endl;
     cout << "Testing abba:  " << (isPalindrome(test4) ? "Palindrome" : "Not a Palindrome") << endl;
-    cout << "Testing abc:  " << (isPalindrome(test4) ? "Palindrome" : "Not a Palindrome") << endl;
-    cout << "Testing a:  " << (isPalindrome(test5) ? "Palindrome" : "Not a Palindrome") << endl;
-    cout << "Testing "" :" << (isPalindrome(test6) ? "Palindrome" : "Not a Palindrome") << endl;
+    cout << "Testing abc:  " << (isPalindrome(test5) ? "Palindrome" : "Not a Palindrome") << endl;
+    cout << "Testing a:  " << (isPalindrome(test6) ? "Palindrome" : "Not a Palindrome") << endl;
+    cout << "Testing "" :" << (isPalindrome(test7) ? "Palindrome" : "Not a Palindrome") << endl;
   
 
 }
