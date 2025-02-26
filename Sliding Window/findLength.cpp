@@ -39,5 +39,5 @@ int main() {
              << findLength(testCases[i], ks[i]) << endl;
     }
 
-    return 0;
+    return 0; //
 }
