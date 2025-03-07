@@ -43,7 +43,7 @@ Each folder contains:
 ## 🎯 **How to Use**
 Clone the repository and start practicing:
 ```sh
-git clone https://github.com/your-username/cpp-data-structures.git
+git clone https://github.com/hasaanhaq/cpp_practice.git
 cd cpp-data-structures
 ```
 Compile and run:
